@@ -1,7 +1,12 @@
+import Calculator from "../components/Calculator";
+import { StyledMain } from "../src/styles/StyledComponents";
+
 const Home = () => {
   return (
     <>
-      <h1>Hello from next</h1>
+      <StyledMain>
+        <Calculator />
+      </StyledMain>
     </>
   );
 };

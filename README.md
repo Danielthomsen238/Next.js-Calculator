@@ -1,4 +1,4 @@
-#Next.js Calculator
+# Next.js Calculator
 a simple calculator, atm the "(" ")" buttons is disable due to the mathematical expression, so its possible to crash it if used wrong
 
 ## Getting Started
